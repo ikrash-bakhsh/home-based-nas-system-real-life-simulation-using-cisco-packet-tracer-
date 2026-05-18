@@ -27,17 +27,19 @@ The network includes the following components:
 
 All devices are connected through the router, which assigns IP addresses using DHCP.
 
-![Network Topology](images/topology.png)
+![Network Topology]
+<img width="601" height="315" alt="Topology" src="https://github.com/user-attachments/assets/3714381d-e554-44f8-9cfa-9db860e5aa4e" />
+
 
 ---
 
 ## IP Addressing Scheme
 
-| Device        | IP Address       |
+| Device       | IP Address      |
 |--------------|-----------------|
 | Router       | 192.168.1.1     |
 | NAS Server   | 192.168.1.10    |
-| PC           | 192.168.1.20    |
+| PC           | DHCP Assigned   |
 | Other Devices| DHCP Assigned   |
 
 ---

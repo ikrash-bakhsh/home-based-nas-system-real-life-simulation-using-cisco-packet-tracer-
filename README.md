@@ -1,4 +1,4 @@
-# Home-Based NAS System using Cisco Packet Tracer
+#Home-Based NAS System (Real-Life Simulation using Cisco Packet Tracer)
 
 ## Overview
 This project demonstrates a home-based Network Attached Storage (NAS) system built using Cisco Packet Tracer. It simulates a centralized file storage environment where multiple devices can upload, download, and access files over a local network using FTP.

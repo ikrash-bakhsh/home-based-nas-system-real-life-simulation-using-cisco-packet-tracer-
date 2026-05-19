@@ -28,6 +28,7 @@ The network includes the following components:
 All devices are connected through the router, which assigns IP addresses using DHCP.
 
 ![Network Topology]
+
 <img width="601" height="315" alt="Topology" src="https://github.com/user-attachments/assets/3714381d-e554-44f8-9cfa-9db860e5aa4e" />
 
 
@@ -54,6 +55,7 @@ Steps:
 3. Verify service availability  
 
 ![FTP Configuration]
+
 <img width="521" height="502" alt="image" src="https://github.com/user-attachments/assets/7453e60e-3889-4b42-bb25-34a8378d89c8" />
 
 
@@ -70,9 +72,11 @@ Steps:
 3. Test connectivity using ping  
 
 ![IP Configuration]
+
 <img width="500" height="236" alt="image" src="https://github.com/user-attachments/assets/4ab4e9f7-1ed1-4592-8429-365e1b7ed32e" />
 
 ![Ping Test]
+
 <img width="498" height="173" alt="image" src="https://github.com/user-attachments/assets/ccd27867-b317-4cf6-9156-aa97bdaa4ecb" />
 
 
@@ -91,6 +95,7 @@ ftp 192.168.1.10
 The user then enters the configured username and password to establish a successful connection with the NAS server.
 
 ![FTP Login]
+
 <img width="488" height="56" alt="image" src="https://github.com/user-attachments/assets/284cad27-cda0-421f-8976-15e3b1f29ae5" />
 
 ### Directory Listing
